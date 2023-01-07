@@ -10,8 +10,8 @@ and then you write like this for each one:
 After you get these libraries I believe you will be ok to run the python file. In this code we didn't get so deep into AI so we just wanted to make AI predict phishing in our dataset of emails. Our dataset has 4 features which we think are enough for good results but u can add more if u want. Also if you take code just let credits and you can easily change, modify, copy or anything else that u need. 
 
 ## Authors
-- LorentSinani
+- [Lorent Sinani](https://github.com/lorentsinani)
 
-- LorikMustafa
+- [Lorik Mustafa](https://github.com/lorikmustafa)
 
-- LoretaBasha
+- [Loreta Basha](https://github.com/LoretaBashaa)
