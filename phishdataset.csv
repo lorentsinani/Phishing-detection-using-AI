@@ -1,1 +1,7 @@
-
+sender,subject,keywords,label
+sender@example.com,New product launch,product launch,legitimate
+sender@example.com,Important security update,security update,legitimate
+free-prizes@example.com,You won a prize!,prize winner,phishing
+fake-banking@example.com,Your account has been compromised,account compromised,phishing
+lorent.sinani@student.uni-pr.com,Kerkese,Kerkese,legitimate
+free-crypto@bin.cz,You won 10k crypto!,crypto 10k,phishing
